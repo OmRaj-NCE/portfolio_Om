@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Pro | Videography Portfolio",
+  "description": "High-end 3D portfolio for an iPhone 16 videographer and editor specializing in motion graphics, real estate, and weddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
